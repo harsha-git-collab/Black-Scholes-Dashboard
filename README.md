@@ -45,7 +45,7 @@ Calculated numerically using root-finding methods.
 - yFinance  
 
 ## How to run
+pip install -r requirements.txt
 
--pip install -r requirements.txt
--Streamlit run app.py  
+Streamlit run app.py  
 
