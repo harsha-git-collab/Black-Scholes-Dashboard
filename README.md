@@ -47,6 +47,5 @@ Calculated numerically using root-finding methods.
 ## How to run
 
 -pip install -r requirements.txt
--pip install -r requirements.txt
-- Streamlit  
+-Streamlit run app.py  
 
