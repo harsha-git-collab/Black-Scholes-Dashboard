@@ -2,20 +2,17 @@
 
 An advanced financial analytics project that implements the Black–Scholes model, Monte Carlo simulation, and implied volatility estimation to price options and analyze risk using real-time market data.
 
----
 
 ##  Features
 
-- ✅ Black–Scholes option pricing (Call & Put)
-- ✅ Monte Carlo simulation for validation
-- ✅ Implied volatility calculation
-- ✅ Greeks (Delta, Gamma, Vega, Theta)
-- ✅ Real-time stock data using Yahoo Finance API
-- ✅ Interactive Streamlit dashboard
-- ✅ Payoff diagrams (Call & Put)
-- ✅ Heatmap visualization (Price vs Volatility)
-
----
+Black–Scholes option pricing (Call & Put)
+Monte Carlo simulation for validation
+Implied volatility calculation
+Greeks (Delta, Gamma, Vega, Theta)
+Real-time stock data using Yahoo Finance API
+Interactive Streamlit dashboard
+Payoff diagrams (Call & Put)
+Heatmap visualization (Price vs Volatility)
 
 ## Dashboard Capabilities
 
@@ -25,20 +22,18 @@ An advanced financial analytics project that implements the Black–Scholes mode
 - Explore **impact of volatility and stock price**
 - Compute **implied volatility from market prices**
 
----
-
 ## Models Used
 
-### 🔹 Black–Scholes Model
+### Black–Scholes Model
 Used for analytical pricing of European options.
 
-### 🔹 Monte Carlo Simulation
+### Monte Carlo Simulation
 Simulates multiple price paths to estimate option value.
 
-### 🔹 Implied Volatility
+### Implied Volatility
 Calculated numerically using root-finding methods.
 
----
+
 
 ##  Tech Stack
 
@@ -50,4 +45,3 @@ Calculated numerically using root-finding methods.
 - yFinance  
 - Streamlit  
 
----
